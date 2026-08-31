@@ -11,22 +11,25 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! My name is Ruth and I am a second year graduate student at the University of Carnegie Mellon. I am currently studying public policy. A fun fact about me is that  I would like to think of myself as a sponge :). I say this because I am always eager to soak in new information and skills under my belt. My passions is serving others, and I think in order to effectively serve you have to know how to communicate in various ways. Since communication isn't only reliant on person to person conversations, I thought it would be key to learn how to communicate in a way that is simple, effective, and visually pleasing using data.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+What I hope to learn is:
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. How to effectively use data visualizations to get information across 
+2. How to design data visuals that are apealing to the eye
+3. How to translate complex information into simplified language/visuals 
 
-or...
+# What I plan to do after graduation
 
-- List item #1
-- List item #2
-- List item #3
+This is the question of the century... XD 
+
+I’m still figuring out exactly what I want to do after graduation, but I know I want to build a career in the public policy sector. I’m particularly interested in immigration policy, diplomacy and international affairs, and local government. I’d like to explore opportunities in those areas and gain experience that allows me to make a meaningful impact in public service.
 
 # Portfolio
+
+
+
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
@@ -39,12 +42,14 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
+
+
+
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
 
 ---
-## Other stuff you can do (you can remove this section - it's just for your reference.)
 
 ### Changing text
 
@@ -75,7 +80,7 @@ You get the idea - just don't forget the space between the # and your title.  `#
 
 Here's an example of how to add an image to my portfolio.  
 
-![funny dog picture](funny-dog-unsplash.jpg)
+
 > Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
