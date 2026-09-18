@@ -5,8 +5,6 @@ How does our changing change in December
 
 https://www.bankofengland.co.uk/explainers/how-much-do-we-spend-at-christmas
 
-I decided to choose this data because off the bat I was having trouble understanding what I was supposed to derive from it. Although the Data has some perks, which is that its easy to read and has great color use- I still had some questions about interpretation. I also was able to pick out who the intended audience was and also after some thought, understood its purpose. From reading the title, I immediately thought that it did not do a good job as explaining what the chart was actually showing and it also is not cohesive with the article. As I thought more deeply, I realized that the chart is missing information. If we are going to compare how person's spending changes in December then we need add information to actually compare it too. This chart is a bit misleading because what exactly is the reference point? Are we looking at the full picture? I also think that it is important to note that the chart does have a comparison, but it is not the comparison that the title implies. Additionally, I thought the chart design with the colors scheme and distinction were on point. However, since the data wants to compare a decrease having a true zero line would better depict that. I also felt tat the subtitle overlaps with the x axis. Having that reduced would help alot in the simplicity of the data.
-
 
 
 ## Step one: the visualization
@@ -20,7 +18,7 @@ I also wanted to mention that the everyday audience played a key role in my rede
 
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._ 
 
-## Step three/4: Sketch a solution and test it
+## Step three/four: Sketch a solution and test it
 In this step, I was fully fixated on trying to show the need for a comparison. So I came up with a chart that changed the title too "How much more or less do we spend in December." This title would speak directly to what I my reimagined design would look like. I also added a legend that highlight the color scheme and was labeled "December increases", "December decrease" and in grey "May or typical month." In this redesign I was focused on showcasing the other months in comapoeison to December. I felt as though this made a lot of sense because, now a reader can look at the chart and see how much more or less people are spending in December versus a regular month. I used a group horizontal bar chart to showcase this comparison. I also added -20 onto my chart, after 0. I also put my catergories in the x axis and my percentages (although I wanted to change them to pounds like what is being talked about) in my y axis.
 
 When it was my turn to show my design I felt like my group mates took a while to really interpret what I had drawn. That was not a good sign. Once everyone was able to review it thoroughly, one person stated that they liked my colors scheme. They were able to quickly figure out what was good and what was bad. They also thought parts of my legend were pretty clear. Some critiques that I was given was that I should instead use a true zero line to depict the negative data. It wasn't as interpretable as first, and this would help readers visually see what I am trying to say. (Although the original chart did use a true zero line, I wanted to flip the chart horizontally for more readability and did not realize I had did the true zero line incorrectly). They also added that my title could be a bit more specific. They suggested that I add in comparison to a typical month. So Now it would be "How much more or less do we spend in December in comparison to a typical month." I thought this enhanced the orignal chart as well because it is saying exacly what the chart is saying but with more spefcics. 
@@ -38,11 +36,9 @@ I initially was so focused on what the title lacked in comparison to the data th
 
 
 As you can see here, I have made the chart horizonal; adding the categories at the bottom and the percentages on top. I changed the chart title to "What do we spend more or less on in December." This title is much more clearer and captures the percentage changes that the chart already gives. It has makes it clear with the different length of the bars, which category they spend more and less on. This redesign is clearer and intutive. I want to mention that, If the team who wrote the article and design the data asked for my input over all I would add the comparison. They also talked about the spending in pounds, so they could have used pounds to showcase the spendings. I would suggest changing the title, adding the data and removing the redudnancy, but above all to keeping it as they alreayd have it. Simple.
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
-_List any references you used here._
-
+Bank of England. (2024, December 9)). How much do we spend at Christmas? https://www.bankofengland.co.uk/explainers/how-much-do-we-spend-at-christmas
 ## AI acknowledgements
 I used Microsoft co pilot AI to build my data redesign. I also used it to give me feedback on my ideas for reconstruction.
 
