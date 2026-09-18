@@ -1,6 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-How does our changing change in December
+Critique By Redesign
 <img width="938" height="720" alt="image" src="https://github.com/user-attachments/assets/2e502a19-54ca-4a5c-b6e6-87852f77eae6" />
 
 https://www.bankofengland.co.uk/explainers/how-much-do-we-spend-at-christmas
