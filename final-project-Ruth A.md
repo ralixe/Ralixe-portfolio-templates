@@ -55,7 +55,7 @@ This data source shows a rise in crime from 2010-2020. I want to use this to sho
 https://data360.worldbank.org/en/economy/HTI
 I wanted to use this data set to showcase other disparities,  although I may pull one or two items for here. I also wanted to highlight deportation levels, but have not found a reliable source yet.
 
-These data set below are references for what I might also use in my project.
+These data link below are references for what I might also use in my project.
 
 https://www.migrationpolicy.org/journal/spotlight/haitian-immi grants-united-states-2023 
 
