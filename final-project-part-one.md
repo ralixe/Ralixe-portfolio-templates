@@ -51,6 +51,7 @@ I will use this dataset to show how many Haitian are living in the united states
 https://www.fwd.us/wp-content/uploads/2026/01/Haiti-TPS-Fact-Sheet_January-2026.pdf
 How they contribute postively ( https://www.fwd.us/news/haitian-tps-holders-make-the-u-s-stronger/) 
 These two data sources show how Haitian contribute to the economy. I plan to use this infographic to break down the ideas because he provides clear information on the amount of money Haitian TPS holders contribute. I plan on drawing to the point of how they have created livelihoods here and are adding to the U.S not taking away. The Haitian tps holders have made the U.S their home and this data clearly shows that this is an understatement. 
+
 https://worldstats.io/crime/ht
 This data source shows a rise in crime from 2010-2020.This data source shows the increase in Haiti’s homicide rate over time. I want to use this data to show the dangerous conditions people are currently facing in Haiti and compare Haiti’s homicide rate to other countries. The data shows that Haiti’s homicide rate reached 41.1 per 100,000 people in 2023, compared with a world average of 5.2 per 100,000. I also plan to place the U.S. State Department’s Level 4: Do Not Travel advisory near the line graph to further highlight the seriousness of the current conditions. The advisory warns against travel because of crime, kidnapping, terrorism, unrest, and limited healthcare
 
