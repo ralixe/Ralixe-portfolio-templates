@@ -10,7 +10,7 @@ Text here!
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-My approach to identifying representative individuals is to consider who would feel the greatest sense of responsibility or duty to take action on the issue I am raising. I hope to reach individuals who feel personally connected to the issue or who have the influence and ability to make a difference. I am hoping that these indicduals feel less politically charged but driven by their moral obligation. 
+My approach to identifying representative individuals was to find different people from various programs who I knew would have different outlooks. I initially wanted to find a person from each program, but I did not have a lot of options. So I chose one at least different from my program and 2 who was similar.  My target audience is grassroot organizations and communities who would feel the greatest sense of responsibility or duty to take action on the issue I am raising. I hope to reach people who feel personally connected to the issue or who have the influence and ability to make a difference. I am hoping that I could frame my issue as less politically charged but more of a moral obligation. 
 
 ## Interview script
 >Goals of My Research
@@ -29,7 +29,7 @@ Does the data provide enough evidence to support the message I want to communica
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-I was able to interview 3 people. I also pretty much asked all of those questions and received a consensus about each one. Some of the findings that I reached were that my data tells a good story on its own but still needs some fine tuning and a little less clutter. They also agreed that my data pairs nicely with my outline and what I want to do. They think the Maps for example are a good addition but question if I need both maps. Overall they like my data and encouraged me to use data wrapper to make my data more interactive. I also had to really explain what I want my intended purpose is and they told me I would have to work on making my story more concise and focused. I did not have my call to action ready on shorthand but I was able to verbally state it. They thought it was clear and direct.
+I was able to interview 3 people. I also pretty much asked all of those questions and received a consensus about each one. Some of the findings that I reached were that my data tells a good story on its own but still needs some fine tuning and a little less clutter. They also agreed that my data pairs nicely with my outline and what I want to do. They think the Maps for example are a good addition but question if I need both maps. Overall they like my data and encouraged me to use data wrapper to make my data more interactive. I also had to really explain what I want my intended purpose is and was told me I would have to work on making my story more concise and focused. However, one person immediately understood the purpose after I explained it. I did not have my call to action ready on shorthand but I was able to verbally state it. They all thought it was clear and direct.
 
 Here are the summarized answers below:
 
