@@ -10,59 +10,61 @@ Text here!
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+My approach to identifying representative individuals is to consider who would feel the greatest sense of responsibility or duty to take action on the issue I am raising. I hope to reach individuals who feel personally connected to the issue or who have the influence and ability to make a difference. I am hoping that these indicduals feel less politically charged but driven by their moral obligation. 
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+>Goals of My Research
 
-Text here!
+The goals of my research are to determine whether my data is useful and can tell a story on its own without requiring too much explanation. I also want to evaluate whether the data connects with my outline and the message I want to communicate. Through this research, I hope to obtain advice for building out my data and determine whether the information is clear and understandable to my targeted audience.
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+What I want to ask:
+Does my data tell a clear story on its own, or does it require additional explanation?
+Is the information easy for my intended audience to understand?
+Does my data align with the main points and outline of my project?
+Does the data effectively communicate the issue I am trying to highlight?
+Is the information relevant and useful to the audience I hope to reach?
+Does the data provide enough evidence to support the message I want to communicate?
 
 
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+I was able to interview 3 people. I also pretty much asked all of those questions and received a consensus about each one. Some of the findings that I reached were that my data tells a good story on its own but still needs some fine tuning and a little less clutter. They also agreed that my data pairs nicely with my outline and what I want to do. They think the Maps for example are a good addition but question if I need both maps. Overall they like my data and encouraged me to use data wrapper to make my data more interactive. I also had to really explain what I want my intended purpose is and they told me I would have to work on making my story more concise and focused. I did not have my call to action ready on shorthand but I was able to verbally state it. They thought it was clear and direct.
 
-Text here!
+Here are the summarized answers below:
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
-
+Does my data tell a clear story on its own, or does it require additional explanation? 
+Yes the data is pretty clear in that it says exactly what it is intended too. They understand where tps holders lie on the map, the contributions and the crime rate levels. They questioned the first map not really targeting Haitian groups and asked if I needed it. From the Professors feedback to my classmate, I really need to think about dialing in and finding a scope I want to focus my issue on. 
+Is the information easy for my intended audience to understand?
+The information is easy enough. They all liked the color scheme and that thought most of the data set were pretty simple. 
+Does my data align with the main points and outline of my project?
+This is my strongest feedback as they said they data set that I have chosen really align with my story. However in telling my story they said I would have to figure out how to be concise but its a draft so. I also pitched an idea of a info graph and they liked it but also suggested I could use data wrapper to build out that data. 
+Does the data effectively communicate the issue I am trying to highlight?
+So far yes. They believe I could contiue to look for more ways to highlight what I am trying to convey.
+Is the information relevant and useful to the audience I hope to reach?
+They did have to ask a couple times about who my audience is, but when I explained a bit better they agreed that they audience would be able to take something away from my presentation. Not sure how I will address the issue of audience. One classmate said he feels like the audience is the class. Not sure if that is good or bad.
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+Narrow my scope and identify the main message I want my audience to take away.
+Reconsider the first map and remove it if it does not directly support my focus on Haitian TPS holders.
+Clarify my intended audience and explain who I want to reach beyond my classroom audience.
+Make my story more concise and focused.
+Reduce clutter while keeping the color scheme that my classmates liked.
+Use Datawrapper to make my data more interactive.
+Keep the datasets that directly support my main story and remove unnecessary information.
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+I need to really figure out if my story flows. Does it go from a beginning to and end? or am I jumping. Which information/data viz is unnecessary 
 
+Most important question: Does my data viz tell the story for me???????
 > ...include any final thoughts you have here. 
 
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
 _List any references you used here._
 
 ## AI acknowledgements
+I used Microsoft copilot to help organize my feedback and to guide me to figure out what my next steps should be.
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
