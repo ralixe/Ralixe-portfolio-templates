@@ -1,8 +1,6 @@
 | [home page](https://ralixe.github.io/Ralixe-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two)  | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
 
 In my final project I want to show why the temporary protected status for Haitians in America should be reinstated. I want highlight why the TPS  was given, which was because of Haiti's 2010 earthquake that displaced many people. Haitians were able to go to America find refuge whilst being able to work and live here legally. Since 2010 the conditions of Haiti has only worsened with gang territories growing and taking control of many areas. From a corrupt government, high level of poverty, massacres, other violence's, according to the department of state Haiti is on a level 4 travel ban. Under the new administration, TPS for Haitian has been terminated and beneficiaries are subjected to deporation.
@@ -29,11 +27,7 @@ My story Arc:
 As a grassroot organization/ community I want to know about why tps reinstatement  matters on a high level, so that I can do my part in making sure that it happens. I can do this by organizing rally's, community gatherings, writing to my rep/congress to highlight the issues with the tps termination/deportation, current unlivable conditions in Haiti and why tps should be reinstated. 
 
 
-
-Text here...
-
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
 <img width="617" height="727" alt="image" src="https://github.com/user-attachments/assets/104ccc1a-aee6-420a-8052-d0e38ab21def" />
 
@@ -41,7 +35,6 @@ Text here...
 
 
 # The data
-
 
 https://www.congress.gov/crs_external_products/RS/HTML/RS20844.web.html#_Toc207985217
 ( how many haitian under tps)
@@ -71,21 +64,12 @@ https://travel.state.gov/en/international-travel/travel-advisories/haiti.html
 https://www.kcra.com/article/map-haiti-immigrant-population-usa/73297742
 
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
 
 # Method and medium
 I plan to use ARCGIS story map or data wrapper. I think these tool will help to showcase the ideas and data in a way that will capture the audience attention and help me tell the story effectively. 
 
 Text here...
 
-## References
-_List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+No AI was used. 
