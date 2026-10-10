@@ -44,7 +44,6 @@ Is the information relevant and useful to the audience I hope to reach?
 They did have to ask a couple times about who my audience is, but when I explained a bit better they agreed that they audience would be able to take something away from my presentation. Not sure how I will address the issue of audience. One classmate said he feels like the audience is the class. Not sure if that is good or bad.
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
 Narrow my scope and identify the main message I want my audience to take away.
 Reconsider the first map and remove it if it does not directly support my focus on Haitian TPS holders.
@@ -57,7 +56,7 @@ Keep the datasets that directly support my main story and remove unnecessary inf
 I need to really figure out if my story flows. Does it go from a beginning to and end? or am I jumping. Which information/data viz is unnecessary 
 
 Most important question: Does my data viz tell the story for me???????
-> ...include any final thoughts you have here. 
+
 
 
 ## References
